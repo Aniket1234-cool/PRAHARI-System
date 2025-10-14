@@ -154,7 +154,7 @@ We welcome research and academic collaborations!
 
 Released under the **MIT License**.
 Hardware and simulation assets are open for **research and academic use** only.
-© 2025 Aniket Mandal & Team TECHNOVATORS
+© 2025 Aniket Mandal, Shrestha Das, Priyanshu Singh & Team TECHNOVATORS
 
 ---
 
