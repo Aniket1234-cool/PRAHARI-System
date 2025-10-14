@@ -15,7 +15,7 @@ Developed for **Smart India Hackathon 2025**, the system fuses **AI-powered robo
 
 ## 🎥 Quick Demo / Overview Video    
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/mN3kXhBsl9o?rel=0" 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mN3kXhBsl9o?rel=0" 
 frameborder="0" allowfullscreen></iframe>
 
 ---
