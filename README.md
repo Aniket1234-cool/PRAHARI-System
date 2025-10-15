@@ -84,15 +84,13 @@ PRAHARI/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-org>/PRAHARI.git
-cd PRAHARI
+git clone https://github.com/Aniket1234-cool/PRAHARI-System.git
+cd PRAHARI-System
 ```
 
 ### 2️⃣ Install Dependencies
 
 ```bash
-pip install -r requirements.txt
-cd vision/yolov8
 pip install -r requirements.txt
 ```
 
